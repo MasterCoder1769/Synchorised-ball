@@ -1,2 +1,2 @@
-# Synchorised-ball
-Today we synchronised 2 databases
+# asynchronousBallMovement
+Boiler plate for ball moving aysnchronously
